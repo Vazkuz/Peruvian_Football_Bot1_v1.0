@@ -1,0 +1,17 @@
+#Para obtener los access_tokens:
+
+#https://graph.facebook.com/v2.10/10157123167866530/accounts?access_token=EAAFrMes89BgBAHtF6bJw1n6rNKZASxoYozP39eA6AM6Q3I8YGPI1LkmdETEu2kQfERreMT2KoKSHIQ7YSBagfZBq3E6WENpsqjB41hgJHtzNikkIOZC1QXOHejlhHuAGZBMvOcp5AK7nZCrU7EjBnhzHJEuShZCF0ZD
+
+ 
+
+#token='EAAFrMes89BgBAGNn7odUQawJdtJe2erkZBqokgZB0dL0OcFfupeo2nYv54GixbMIU4qXKtLS1uvIZA5bGCqLl4XXb1Mt33xwbIwFNGNpbk8dvgluUTSVWusDN5rYqyGZCV8Ko8qrshdBSofDwWuOXM7HDdRGa6bgwbWg14PzHQZDZD'
+
+ 
+
+#fb=facebook.GraphAPI(access_token=token)
+
+#Texto='Prueba'
+
+ 
+
+#fb.put_object(parent_object='me',connection_name='feed',message=Texto)
