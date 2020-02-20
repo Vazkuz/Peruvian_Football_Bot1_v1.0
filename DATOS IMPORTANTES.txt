@@ -1,0 +1,17 @@
+
+BOT ACCESS TOKEN TOOL: https://www.facebook.com/connect/login_success.html#access_token=EAACVS6jUj0QBAHymBCiJiseIlWXCDH2LFlueazTB2Bk4MNbhAhynUvnPRAQgBVvuZAioClGIVKD8Wilx7xi3ZAqUZC7UKkfoPgdunBVblThrvBPjwKJpWxyVGMDzolfAHYHm2PZAA1NHVd9h42EzttfZC65Ticp8sh9wHto5xMMv1YhnCNyjA11r0VzWIBj8ZD&data_access_expiration_time=1586572976&expires_in=4623
+TOKEN: EAACVS6jUj0QBAMLK0UnT2lbrwrOZAeiWnsBej2vPYZBvxB8OTYpkpV9R5dkpS6gPuBjaRmcqcZCf5U6kX3bjxg6fQVSeOeWdqdYWL0bguCwCUYWNpkyHBKh3pcyGiSsAznzwJiIQJftiWmvf6QGhZBRaF51RbW3OltlIZBIN0rgZDZD
+
+
+
+
+
+Para encontrar el TOKEN de la app:
+https://graph.facebook.com/v2.10/10157123167866530/accounts?access_token=EAAFrMes89BgBAHtF6bJw1n6rNKZASxoYozP39eA6AM6Q3I8YGPI1LkmdETEu2kQfERreMT2KoKSHIQ7YSBagfZBq3E6WENpsqjB41hgJHtzNikkIOZC1QXOHejlhHuAGZBMvOcp5AK7nZCrU7EjBnhzHJEuShZCF0ZD
+
+Identificador de la APP: 399337120920600
+Clave de la APP: 980677bc65ca496b8999bdba980cec0b
+
+Encontrar la app: https://developers.facebook.com/apps/399337120920600/settings/basic/
+
+WEB HOST: https://peruvianfootballbot1.000webhostapp.com/

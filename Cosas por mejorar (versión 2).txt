@@ -1,0 +1,9 @@
+BUGS:
+	un jugador puede tener roja y aún así ser cambiado :c
+
+Crear class Jugador()
+	Aquí añadir cuántas tarjetas rojas y amarillas ha tenido (de manera que se pueda llevar un registro y se evite
+	que un jugador con roja juegue otro partido)
+	Añadir también un conteo de los goles (para así hacer la tabla de goleadores)
+
+Cambiar la dinámica de asignación de goleadores (para poder añadir una probabilidad de autogol)
